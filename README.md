@@ -8,3 +8,7 @@
 1) Copy **esx_gofast** to your FXServer resource folder
 2) Add **start esx_gofast** to your **sever.cfg** file
 3) Start your server or resource
+
+
+![aa](https://cdn.discordapp.com/attachments/834924184223481876/981340172190904381/unknown.png)
+![aa](https://cdn.discordapp.com/attachments/834924184223481876/981340682302152744/unknown.png)
